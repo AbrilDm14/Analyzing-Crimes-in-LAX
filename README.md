@@ -2,7 +2,7 @@
 
 We have been asked to support the Los Angeles Police Department (LAPD) by analyzing their crime data to identify patterns in criminal behavior. They plan to use our insights to allocate resources effectively to tackle various crimes in different areas.
 
-By developing an analysis, we are required to produce insights about crimes in LAX:
+By developing an analysis, we are required to produce insights about crimes in Los Ángeles:
 - How crimes vary by area, crime type, victim's age, time of day and victim's descent.
 - Visualize the distribution of crimes on a map.
 - Provide recommendations for the LAPD to focus on that might help to predict criminal activities.
