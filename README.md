@@ -1,4 +1,4 @@
-# Analyzing Crimes in Los Ángeles
+# Analyzing Crimes in Los Ángeles 
 
 We have been asked to support the Los Angeles Police Department (LAPD) by analyzing their crime data to identify patterns in criminal behavior. They plan to use our insights to allocate resources effectively to tackle various crimes in different areas.
 
